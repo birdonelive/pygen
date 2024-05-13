@@ -9,3 +9,6 @@ PyGen เป็นนวัตกรรม AI ใหม่ ซึ่งสาม
 PyGen is an AI modification which can transform ChatGPT into a new program called PyGen. PyGen can easily write Python for users, by simply typing your prompt into the chatbox. The length doesn't have to be long, as prompts as short as one word are supported, but longer prompts are recommended if you want to refine your code. PyGen also comes with code length increasing and decreasing commands, and also a command to regenerate the code!
 
 To start, simply copy and paste the `script.txt` file into ChatGPT.
+
+## Copyright License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. For more information, please check the [License Document](https://github.com/birdonelive/pygen/blob/main/license.md).
